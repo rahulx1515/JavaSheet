@@ -4,6 +4,7 @@
 Exercise 1: Array of Objects
 Bruce Eckel emphasizes that arrays of objects store references, not objects themselves.
 Task
+
 Create a class Book with fields title and author.
 
 
